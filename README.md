@@ -22,30 +22,37 @@ In this project, AWS Identity Center( the successor to AWS SSO) will be integrat
 <h2>Part 1-Created Virtual Networks and Subnets:</h2>
 
 <img src="https://i.imgur.com/k505V3o.png"/> 
-
 <img src="https://i.imgur.com/ZNCJrpa.png"/> 
-
-<img src="https://i.imgur.com/c33HRjK.png"/> 
-<img src="https://i.imgur.com/c33HRjK.png"/> 
+<img src="https://i.imgur.com/c33HRjK.png"/>  
+<br />
+<br />
+<h2>Part New</h2>
 <img src="https://i.imgur.com/5oBZ98d.png"/> 
 <img src="https://i.imgur.com/gVogOYH.png"/> 
-<img src="https://i.imgur.com/IkjKU47.png"/> 
 <img src="https://i.imgur.com/U2gkbsO.png"/> 
 <img src="https://i.imgur.com/Ba2ABW7.png"/> 
+<br />
+<br />
+<h2>Part New</h2>
 <img src="https://i.imgur.com/4N30EHT.png"/> 
 <img src="https://i.imgur.com/fWQWwVo.png"/> 
+<br />
+<br />
+<h2>Part New2</h2>
 <img src="https://i.imgur.com/qSM1KPw.png"/> 
-<img src="https://i.imgur.com/XZ7yMnE.png"/> 
 <img src="https://i.imgur.com/XZ7yMnE.png"/> 
 <img src="https://i.imgur.com/Od3rjYs.png"/> 
 <img src="https://i.imgur.com/KP3ijfk.png"/> 
-<img src="https://i.imgur.com/zevUiFw.png"/> 
+<br />
+<br />
+<h2>Part New3</h2>
 <img src="https://i.imgur.com/cmvLbqj.png"/> 
 <img src="https://i.imgur.com/mHw2cV3.png"/> 
 <img src="https://i.imgur.com/dpqZy8o.png"/> 
 <img src="https://i.imgur.com/0OvgUIJ.png"/> 
 <img src="https://i.imgur.com/UsMCh7s.png"/> 
-<img src="https://i.imgur.com/UML0Hq9.png"/> 
+
+<img src="https://i.imgur.com/GCVCYbr.png"/> 
 <img src="https://i.imgur.com/BsQXJUT.png"/> 
 <img src="https://i.imgur.com/ZWK8smW.png"/> 
 <img src="https://i.imgur.com/mBa2iP7.png"/> 
